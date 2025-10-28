@@ -1,0 +1,12 @@
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/servlet/FacultyServlet.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/servlet/StudentScheduleServlet.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/model/Faculty.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/dao/CourseDAO.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/model/Student.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/servlet/CourseServlet.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/servlet/StudentFormServlet.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/util/DBConnection.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/dao/FacultyDAO.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/dao/StudentDAO.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/servlet/StudentServlet.java
+/Users/wd/IdeaProjects/universityportal/UniversityPortal/src/main/java/com/example/model/Course.java
